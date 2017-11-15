@@ -1,0 +1,10 @@
+/* L10JSOperatorsWithMath */
+
+.operatorSymbol,  .operatorAnswer {
+  text-align: center;
+  font-size: 1.3em;
+}
+
+.grayTr {
+  color: rgb(100, 100, 100)
+}

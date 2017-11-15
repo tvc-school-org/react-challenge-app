@@ -1,0 +1,20 @@
+/* Img */
+
+.imgSizeSmall {
+  /*max-width: 30%;*/
+  max-width: 200px;
+}
+.imgSizeMedium {
+  max-width: 70%;
+}
+.imgSizeLarge {
+  max-width: 100%;
+}
+.responsive {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+.imageProperties {
+  margin: 15px 0;
+}
